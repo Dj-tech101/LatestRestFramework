@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T15:18:48 IST" name="Suite" finished-at="2024-03-28T15:18:52 IST" duration-ms="4009">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T15:18:48 IST" name="Test" finished-at="2024-03-28T15:18:52 IST" duration-ms="4009">
+      <class name="testCases.Demo_Validate_talonData_integration">
+        <test-method signature="validateProjectcreation()[pri:1, instance:testCases.Demo_Validate_talonData_integration@2a798d51]" started-at="2024-03-28T15:18:49 IST" name="validateProjectcreation" finished-at="2024-03-28T15:18:51 IST" duration-ms="2734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProjectcreation -->
+        <test-method is-config="true" signature="deleteProject()[pri:0, instance:testCases.Demo_Validate_talonData_integration@2a798d51]" started-at="2024-03-28T15:18:51 IST" name="deleteProject" finished-at="2024-03-28T15:18:52 IST" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+      </class> <!-- testCases.Demo_Validate_talonData_integration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

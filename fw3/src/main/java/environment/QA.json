@@ -1,0 +1,10 @@
+{"CreateProject":"/api/order-center/project/saveProject",
+"DeleteProject":"/api/order-center/project/deleteProject",
+"UpdateProject":"/api/order-center/project/updateProjectName",
+"GetProject":"/api/order-center/login/getSavedProject?searchByCriteria=&pageNumber=1&limitSize=20&inprogresspageNumber=1&inprogresslimitSize=20"
+,"getBrandDetails":"/api/order-center/product/list"
+
+
+
+
+}
